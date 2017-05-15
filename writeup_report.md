@@ -38,6 +38,8 @@ You're reading it!
 - Helper functions are contained in the scripts `feature_extraction.py` and `utils.py`.
 - The trained linear SVM model is saved as `model.svm` in the project root.
 
+**NOTE**: The code about feature extraction and HOG feature sub-sampling are from the course materials of Udacity Self-Driving Car NanoDegree.
+
 ### Histogram of Oriented Gradients (HOG)
 
 #### 1. Explain how (and identify where in your code) you extracted HOG features from the training images.
